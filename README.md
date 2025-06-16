@@ -1,6 +1,6 @@
 <!-- Animated GIF (AI + Coding theme) -->
 <div align="center">
-  <img src="This pin is all about coding.gif" width="300" alt="Laptop Coding AI Animation" />
+  <img src="This pin is all about coding.gif" width="600" alt="Laptop Coding AI Animation" />
 </div>
 
 <h2 align="center">
